@@ -1,0 +1,143 @@
+[{
+  "title": "لوحة المعلومات",
+  "icon": "bi bi-columns-gap",
+  "path": "/components/dashboard/Dashboard"
+},
+  {
+    "title": "إدارة الحسابات",
+    "icon": "bi-folder",
+    "childrens": [
+      {
+        "title": "إضافة مستخدم",
+        "icon": "bi-three-dots",
+        "path": "/components/account setting/add user/adduser"
+      },
+      {
+        "title": "عرض المستخدمين",
+        "icon": "bi-three-dots",
+        "path": "/components/account setting/show user/showuser"
+      }
+    ]
+  },
+  {
+    "title": "إدارة الموظفين",
+    "icon": "bi-folder",
+    "childrens": [
+      {
+        "title": "إضافة موظف",
+        "icon": "bi-three-dots",
+        "path": "/components/employee setting/add employee/addemployee"
+      },
+      {
+        "title": "عرض الموظفين",
+        "icon": "bi-three-dots",
+        "path": "/components/employee setting/show employee/showemployee"
+      }
+    ]
+  },
+  {
+    "title": "إدارة الإعدادات",
+    "icon": "bi-folder",
+    "childrens": [
+      {
+        "title": "عرض المقررات",
+        "icon": "bi-three-dots",
+        "path": "/components/setting management/subject/ShowSubject"
+      },
+      {
+        "title": "عرض الشعب",
+        "icon": "bi-three-dots",
+        "path": "/components/setting management/sections/ShowSections"
+      },
+      {
+        "title": "عرض البرنامج",
+        "icon": "bi-three-dots",
+        "path": "/components/setting management/program/ShowProgram"
+      }
+    ]
+  },
+  {
+    "title": "إدارة الطلاب",
+    "icon": "bi-folder",
+    "childrens": [
+      {
+        "title": "إضافة طالب",
+        "icon": "bi-three-dots",
+        "path": "/components/students/addStudent"
+      },
+      {
+        "title": "عرض الطلاب",
+        "icon": "bi-three-dots",
+        "path": "/components/students/showStudent"
+      }
+    ]
+  },
+  {
+    "title": "إدارة الدوام",
+    "icon": "bi-folder",
+    "childrens": [
+      {
+        "title": "إضافة غياب",
+        "icon": "bi-three-dots",
+        "path": "/components/time mamagement/addabsence"
+      },
+      {
+        "title": "إضافة تأخير",
+        "icon": "bi-three-dots",
+        "path": "/components/time mamagement/delay"
+      },
+      {
+        "title": "إضافة إذن",
+        "icon": "bi-three-dots",
+        "path": "/components/time mamagement/permission"
+      }
+    ]
+  },
+  {
+    "title": "إدارة العلامات",
+    "icon": "bi-folder",
+    "childrens": [
+      {
+        "title": "إضافة علامة",
+        "icon": "bi-three-dots",
+        "path": "/components/marks/showAddMark"
+      }
+    ]
+  },
+  {
+    "title": "إدارة المتابعة",
+    "icon": "bi-folder",
+    "childrens": [
+      {
+        "title": "إضافة ملاحظة",
+        "icon": "bi-three-dots",
+        "path": "/components/follow-up management/add notice/addNotice"
+      },
+      {
+        "title": "إضافة متابعه",
+        "icon": "bi-three-dots",
+        "path": "/components/follow-up management/working papers/add working_paper"
+      }
+    ]
+  },
+  {
+    "title": "الإعلانات",
+    "icon": "bi-folder",
+    "childrens": [
+
+      {
+        "title": "إضافةإعلان",
+        "icon": "bi-three-dots",
+        "path": "/components/ads/addAds"
+      }]
+  },
+  {"title": "إدارة المدفوعات",
+    "icon": "bi-folder",
+    "childrens": [
+
+      {
+        "title": "إضافة مدفوعات",
+        "icon": "bi-wallet-fill",
+        "path": "/components/budget/budget"
+      }]}
+]

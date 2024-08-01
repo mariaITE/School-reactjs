@@ -1,0 +1,134 @@
+/*.login {*/
+/*    font-family: Segoe UI;;*/
+/*    display: flex;*/
+/*    margin-right: 200px;*/
+/*    justify-content: center;*/
+/*    flex-direction: column;*/
+/*    gap: 20px;*/
+/*    height: 90vh;*/
+/*    font-family: Segoe UI, Helvetica, sans-serif;*/
+/*}*/
+
+label {
+    color: #18243A;
+}
+
+.input-login {
+    height: 25px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    border-radius: 8px;
+}
+
+input:focus {
+    outline: 1px solid #18243A;
+}
+
+.login-button[type="submit"] {
+    border-radius: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    background: #18243A;
+    border: 1px solid #262F48;
+    color: white;
+    padding: 10px 20px;
+    width: 200px;
+
+}
+
+.login-button[type="submit"]:hover {
+    width: 200px;
+    font-weight: bold;
+    font-size: 15px;
+    background: white;
+    color: #18243A;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.login-form {
+    margin-right: 380px;
+    margin-top: 120px;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: white;
+    padding: 2rem;
+    color: #262F48;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    width: 300px;
+}
+
+.list-container {
+    display: flex;
+}
+
+.error {
+    /*background-color: white;*/
+    /*margin-right: 20px;*/
+    color: red !important;
+    font-weight: normal !important;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    /*font-size: 15px;*/
+    display: table-cell;
+
+}
+.error_border{
+    border: 1px solid red !important
+}
+
+.title-login {
+    font-size: 25px;
+    margin-bottom: 20px;
+    color: #18243A;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.message {
+    font-size: 17px;
+    font-weight: bold;
+    color: #18243A;
+    text-align: center;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 10px;
+}
+
+.password {
+    position: relative;
+    cursor: pointer;
+    right: 190px;
+    bottom: 30px;
+    color: #18243A;
+
+}
+
+.study {
+    /*display: inline-block;*/
+    width: auto;
+    height: 100%;
+    /*margin-right: 250px;*/
+
+    /*width: 40px;*/
+    /*height: 40px;*/
+    /*margin:10px 50px 10px 10px;*/
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.div-log {
+
+    display: inline-block;
+}

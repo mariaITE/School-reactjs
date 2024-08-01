@@ -1,0 +1,44 @@
+
+/*.upload{*/
+/*    !*top:50%;*!*/
+/*    !*left:50%;*!*/
+/*    display: inline-block;*/
+/*    margin:15px 25px 15px 15px;*/
+
+/*    !*transform: translate(-50%,-50%);*!*/
+/*    !*position: absolute;*!*/
+/*}*/
+/*.upload-box{*/
+/*    background-color: rgba(0, 0, 0, 0);*/
+/*    font-family: Segoe UI, Helvetica, sans-serif;*/
+/*    height: 50px;*/
+/*    font-size: 16px;*/
+/*    !*padding: 15px;*!*/
+/*    !*background: white;*!*/
+/*    text-align: center;*/
+/*    border-radius: 50px;*/
+/*    !*box-shadow: 5px 5px 10px black;*!*/
+/*    width: 280px;*/
+/*    border: 1px solid #6D34FF;*/
+/*    color: transparent;*/
+/*}*/
+/*::-webkit-file-upload-button{*/
+/*    !*height: 1cm;*!*/
+/*    height: 50px;*/
+/*    !*width: 50px;*!*/
+/*    color: white;*/
+/*    background: #5484dd;*/
+/*    padding: 20px;*/
+/*    border: none;*/
+/*    border-radius: 50px;*/
+/*    box-shadow: 1px 0 1px #7F2CFE;*/
+/*    !*border: 1px solid white;*!*/
+/*}*/
+/*::-webkit-file-upload-button:hover{*/
+
+/*    background: #61dafb;*/
+/*}*/
+/*.upload i{*/
+/*  position:absolute ;*/
+/*    transform: translate(1650%,60%);*/
+/*}*/

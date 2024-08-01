@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf9993ea-b962-432b-bd72-41d9da27a111" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/api/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/account setting/add user/adduser.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/account setting/add user/adduser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/account setting/edit user/edituser.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/account setting/edit user/edituser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/account setting/show user/showuser.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/account setting/show user/showuser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ads/FileItem/FileItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ads/FileItem/FileItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ads/FileList/FileList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ads/FileUpload/FileUpload.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ads/FileUpload/FileUpload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ads/addAds.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ads/ads.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/backend/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/budget/addbudget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/budget/budget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/employee setting/add employee/addemployee.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/employee setting/add employee/addemployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/employee setting/add employee/tablerows.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/employee setting/show employee/acceptedEmployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/employee setting/show employee/other.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/employee setting/show employee/pdfTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/employee setting/show employee/pendingEmployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/employee setting/show employee/segoeui.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/employee setting/show employee/showemployee.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/employee setting/show employee/showemployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/log in/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/log in/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/log in/study.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/marks/detailsMark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/marks/mark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/marks/showAddMark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sidebar/sidbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sidebar/sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sidebar/sidebarItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/students/AAAGoldenLotus Stg1_Ver1 Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/students/addStudent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/students/makePDF.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/students/myPDF.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/students/segoeui.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/students/showStudent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/students/student.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/students/tablerows.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/time mamagement/addDelay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/time mamagement/addabsence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/time mamagement/addpermission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/time mamagement/delay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/time mamagement/delay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/time mamagement/permission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/time mamagement/showabsence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/sidebar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2k2CVwLGEYnUkNPbHXYiPr5b2GW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf9993ea-b962-432b-bd72-41d9da27a111" name="Default Changelist" comment="" />
+      <created>1722472312205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722472312205</updated>
+      <workItem from="1722472315090" duration="660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

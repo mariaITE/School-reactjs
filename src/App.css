@@ -1,7 +1,20 @@
 .App {
   text-align: center;
 }
+.da-container {
 
+  width: 960px;
+  height: 560px;
+  margin:20px;
+  border-radius: 25px;
+  /*display: inline-block;*/
+  background-color: #262F48;
+ padding-top: 30px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+
+
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

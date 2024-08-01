@@ -1,0 +1,87 @@
+.sidebar {
+    padding: 40px 20px 20px 20px;
+    margin: 60px 30px 30px 30px;
+    border-radius: 25px;
+    width: 300px;
+    flex-shrink: 0;
+    background-color: #18243A;
+    height: 565px;
+    overflow:auto;
+
+}
+
+::-webkit-scrollbar{
+width: 1px;
+}
+
+.sidebar-item.sidebar-item {
+    padding: .75em 1em;
+    display: block;
+    border-radius: 5px;
+}
+
+.sidebar-item:hover {
+    background-color: #262F48;
+}
+
+.sidebar-title {
+    display: flex;
+    font-size: 1.2em;
+    justify-content: space-between;
+}
+
+.sidebar-title span i {
+    display: inline-block;
+    width: 1.5em;
+}
+
+.sidebar-title .toggle-btn {
+    cursor: pointer;
+    transition: transform .3s;
+}
+
+.sidebar-item.open > .sidebar-title .toggle-btn {
+    transform: rotate(-90deg);
+}
+
+.sidebar-content {
+    padding-top: .25em;
+    height: 0;
+    overflow: hidden;
+}
+
+.sidebar-item.open > .sidebar-content {
+    height: auto;
+}
+
+.sidebar-item.plain {
+    color: #fff;
+    text-decoration: none;
+}
+
+.sidebar-item.plain:hover {
+
+}
+
+.sidebar-item.plain i {
+    display: inline-block;
+    width: 1.7em;
+}
+.sidebar-item.plain:hover {
+    color: silver;
+}
+
+.sidebar-item.plain:focus {
+    color: #6D34FF;
+}
+
+.sidebar-item.plain i {
+    display: inline-block;
+    width: 1.7em;
+}
+
+.link:link, link:visited {
+    text-decoration: none;
+    display: inline-block;
+
+}

@@ -1,0 +1,55 @@
+ul.nav1 {
+    /*background-color: #f61919;*/
+    margin-right: 90px;
+    margin-left: 80px;
+    width: 80%;
+    /*margin: 0 auto 2rem;*/
+    display: flex;
+    /*align: center;*/
+    justify-content: space-between;
+    /*border-bottom: 1px solid #6D34FF;*/
+    /*border-radius: 2rem;*/
+}
+
+ul.nav1 li {
+    width: 40%;
+    height: 50px;
+    padding: 15px;
+    list-style: none;
+    text-align: center;
+    font-family: Segoe UI, Helvetica, sans-serif;
+    cursor: pointer;
+    /*transition: all 0.7s;*/
+    /*border-bottom-left-radius: 2rem;*/
+    /*border-top-left-radius: 2rem;*/
+}
+
+/*ul.nav li:nth-child(2) {*/
+/*    border-radius: 0 2rem 2rem 0;*/
+/*}*/
+
+ul.nav1 #tab3:hover {
+    background: #38476CFF;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+ul.nav1 #tab4:hover {
+    background: #38476CFF;
+    /*border-radius: 30px;*/
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+ul.nav1 #tab3.active1 {
+    background: #6D34FF;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+ul.nav1 #tab4.active1 {
+    background: #6D34FF;
+    /*border-radius: 30px;*/
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}

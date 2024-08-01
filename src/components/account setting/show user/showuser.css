@@ -1,0 +1,67 @@
+
+.buttonB {
+    font-family: Segoe UI, Helvetica, sans-serif;
+    width: 50px;
+    height: 30px;
+    background-color: #f61919;
+    color: white;
+    border: 0px;
+}
+
+.buttonB.edit.linke {
+    margin-right: 20px;
+    background-color: #7F2CFE;
+    text-decoration: none;
+    /*font-size: 12px;*/
+    text-align: center;
+    /*padding: 14px 25px;*/
+    padding-top: 3px;
+    display: inline-block;
+    /*width: 50px;*/
+    /*height: 30px;*/
+
+
+}
+
+.buttonB.edit.linke.color {;
+
+    background-color: #085EFD;
+
+
+}
+
+.buttonB.accept {
+
+    margin-left: 20px;
+    background-color: #3CB740;
+
+}
+
+.buttonB.det {
+
+    margin-right: 20px;
+    background-color: #085EFD;
+
+}
+
+/*.linkButton:link , link.visited*/
+/*{*/
+/*    text-decoration: none;*/
+/*    display: inline-block;*/
+
+/*}*/
+
+/*.sub-con{*/
+/*    margin: 20px;*/
+/*    width: 960px;*/
+/*    height: 560px;*/
+/*    border-radius: 30px;*/
+/*    background-color: #262F48;*/
+/*}*/
+
+/*hr{*/
+/*    background-color: white;*/
+/*    width: 960px;*/
+/*    margin-top: 60px;*/
+
+/*}*/

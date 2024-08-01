@@ -1,0 +1,141 @@
+/* .container {*/
+/*     position: fixed;*/
+/*     top: 20%;*/
+/*     left: 28%;*/
+/*     margin-top: -65px;*/
+/*     margin-left: -100px;*/
+/*     border-radius: 7px;*/
+/* }*/
+
+/*.card {*/
+/*    box-sizing: content-box;*/
+/*    width: 700px;*/
+/*    height: 150px;*/
+/*    padding: 30px;*/
+/*    border: 1px solid black;*/
+
+/*    background-color: #f0f0f0;*/
+/*}*/
+
+/*#button {*/
+/*    background-color: #4caf50;*/
+/*    border-radius: 5px;*/
+/*    margin-left: 650px;*/
+/*    margin-bottom: 5px;*/
+/*    color: white;*/
+/*}*/
+
+/*h2 {*/
+/*    text-align: center;*/
+/*    color: #24650b;*/
+/*}*/
+.nav {
+    border-bottom: 1px solid white;
+    height: 70px;
+    width: 960px;
+    border-radius: 30px 30px 0px 0px;
+    display: block;
+
+}
+
+.acceptedEmployee {
+    background-color: #262F48;
+    padding: 20px;
+    width: 480px;
+    height: 69px;
+    text-align: center;
+    border-radius: 0px 30px 0px 0px;
+    border-left: 1px solid white;
+    display: inline-block;
+    flex-shrink: 0;
+}
+
+.acceptedEmployee:hover {
+    background-color: #ea0e88;
+
+}
+
+.pendingEmployee {
+    /*background-color: #c11181;*/
+    padding: 20px;
+    width: 480px;
+    height: 69px;
+    text-align: center;
+    border-radius: 30px 0px 0px 0px;
+    display: inline-block;
+}
+
+.pendingEmployee:hover {
+    background-color: #c11181;
+}
+
+label a {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.sub-con.emp {
+    padding-top: 0px;
+    padding-left: 0px;
+}
+
+
+ul.nav {
+    /*background-color: #f61919;*/
+    width: 100%;
+    /*margin: 0 auto 2rem;*/
+    display: flex;
+    /*align-items: center;*/
+    justify-content: space-between;
+    border-bottom: 1px solid #6D34FF;
+    /*border-radius: 2rem;*/
+}
+
+ul.nav li {
+    width: 50%;
+    padding: 25px;
+    list-style: none;
+    text-align: center;
+    font-family: Segoe UI, Helvetica, sans-serif;
+    cursor: pointer;
+    /*transition: all 0.7s;*/
+    /*border-bottom-left-radius: 2rem;*/
+    /*border-top-left-radius: 2rem;*/
+}
+
+/*ul.nav li:nth-child(2) {*/
+/*    border-radius: 0 2rem 2rem 0;*/
+/*}*/
+ul.nav #tab1:hover {
+    background: #38476CFF;
+    border-top-right-radius: 30px;
+}
+
+ul.nav #tab2:hover {
+    background: #38476CFF;
+    border-top-left-radius: 30px;
+}
+
+ul.nav #tab1.active {
+    background: #6D34FF;
+    border-top-right-radius: 30px;
+}
+
+ul.nav #tab2.active {
+    background: #6D34FF;
+    border-top-left-radius: 30px;
+}
+
+/* First and Second Tab Styles */
+/*.FirstTab p,*/
+/*.SecondTab p {*/
+/*    font-size: 2rem;*/
+/*    text-align: center;*/
+/*}*/
+
+/*.t{*/
+/*width:100%;*/
+/*    color:black*/
+/*}*/
